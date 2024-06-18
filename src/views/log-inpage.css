@@ -1,0 +1,213 @@
+.log-inpage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.log-inpage-log-inpage {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(33, 72, 192, 1);
+}
+.log-inpage-bg {
+  top: 0px;
+  left: -265px;
+  width: 2085px;
+  height: 1331px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.log-inpage-ellipse {
+  top: 569.8278198242188px;
+  left: 0px;
+  width: 766px;
+  height: 761px;
+  position: absolute;
+}
+.log-inpage-ellipse1 {
+  top: 632.9083862304688px;
+  left: 80.45697021484375px;
+  width: 606px;
+  height: 601px;
+  position: absolute;
+}
+.log-inpage-ellipse2 {
+  top: 716px;
+  left: 151px;
+  width: 464px;
+  height: 460px;
+  position: absolute;
+}
+.log-inpage-vector {
+  top: 0px;
+  left: 1170.331298828125px;
+  width: 915px;
+  height: 759px;
+  position: absolute;
+}
+.log-inpage-form {
+  top: 196.99998474121094px;
+  left: 670px;
+  width: 494.1588134765625px;
+  height: 550.3916015625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.log-inpage-username {
+  top: 190.5403594970703px;
+  left: 0px;
+  width: 470.8742980957031px;
+  height: 70.63114166259766px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.log-inpage-text {
+  top: 25.459671020507812px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 300;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.log-inpage-user {
+  top: 20.40455436706543px;
+  left: 18.834972381591797px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.log-inpage-password {
+  top: 292.5631103515625px;
+  left: 0px;
+  width: 470.8742980957031px;
+  height: 70.63114166259766px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.log-inpage-text2 {
+  top: 28.436920166015625px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 300;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.log-inpage-lock {
+  top: 13.436920166015625px;
+  left: 13px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+.log-inpage-loginbtn {
+  top: 430.68621826171875px;
+  left: 0px;
+  width: 470.8742980957031px;
+  height: 70.63114166259766px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.log-inpage-text4 {
+  top: 25.31378173828125px;
+  left: 178px;
+  color: rgba(33, 72, 192, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.log-inpage-text6 {
+  top: 519px;
+  left: 265px;
+  color: rgba(255, 255, 255, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.log-inpage-group {
+  top: 0px;
+  left: 148px;
+  width: 175px;
+  height: 143.4683380126953px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.log-inpage-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 175px;
+  height: 114px;
+  position: absolute;
+}
+.log-inpage-vector2 {
+  top: 28.148971557617188px;
+  left: 81.52313232421875px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.log-inpage-vector3 {
+  top: 127.12384033203125px;
+  left: 74.35227966308594px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.log-inpage-vector4 {
+  top: 127.12384033203125px;
+  left: 114.24873352050781px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
